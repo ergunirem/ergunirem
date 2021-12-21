@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there and welcome to my profile 👋
 
-<!--
-**ergunirem/ergunirem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Irem and I'm a student at Codam (42 Network)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning C++ and Containers
+- 👀 I’m interested in web development
+- 📫 How to reach me: cikrikciogluirem@gmail.com
+- ⚤ Pronouns: She/Her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools:
+bash c c++ docker kubernetes arduino
+
+Top Langs
