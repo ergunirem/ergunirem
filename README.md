@@ -7,7 +7,4 @@ My name is Irem and I'm a student at Codam (42 Network)
 - 📫 How to reach me: cikrikciogluirem@gmail.com
 - ⚤ Pronouns: She/Her
 
-Languages and Tools:
-bash c c++ docker kubernetes arduino
-
-Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ergunirem&theme=tokyonight)
