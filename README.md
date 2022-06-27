@@ -2,7 +2,7 @@
 
 My name is Irem and I'm a student at Codam (42 Network)
 
-- 🌱 I’m currently learning TypeScript & NestJS
+- 🌱 I’m currently learning C++, TypeScript & NestJS
 - 👀 I’m interested in web development
 - 📫 How to reach me: cikrikciogluirem@gmail.com
 - ⚤ Pronouns: She/Her
